@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/fastapi/fastapi
+2. Gráfico selecionado: ![Evolução de LOC no FastAPI](loc_fastapi.png)
+3. Explicação: <sua explicação>
 
 
 
